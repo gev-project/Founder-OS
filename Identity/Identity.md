@@ -116,8 +116,6 @@ Melalui Gev Project, saya ingin membuktikan bahwa seorang solo founder dengan po
 
 ## Identity Statement
 
-Saya bukan sekadar mantan profesional telekomunikasi.
-
 Saya adalah Enterprise Product Builder.
 
 Saya membangun produk dari masalah nyata, mendokumentasikan prosesnya, dan terus berkembang melalui eksekusi yang terstruktur.
